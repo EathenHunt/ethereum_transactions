@@ -1,0 +1,5 @@
+{
+    "etherscan": "your_etherscan_api_key_here",
+    "binance": "your_binance_api_key_here",
+    "bybit": "your_bybit_api_key_here"
+}
